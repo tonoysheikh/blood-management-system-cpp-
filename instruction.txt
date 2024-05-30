@@ -1,1 +1,1 @@
-this is my academic projection which is made only using cpp
+this is my academic project which is made only using cpp
